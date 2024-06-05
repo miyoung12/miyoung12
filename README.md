@@ -1,6 +1,7 @@
 <!-- 타이틀 부분 -->
-## ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Miyoung%20Kim&fontAlign=50&fontSize=50&descAlignY=60&textBg=false&fontAlignY=38)
-
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Miyoung%20Kim&fontAlign=50&fontSize=50&descAlignY=60&textBg=false&fontAlignY=38"/>
+</div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -27,4 +28,9 @@
 </div>
 
 <!-- github -->
-![miyoung12's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</div>
+#
+<h3 align="center">🖥️ Status 🖥️</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miyoung12&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyoung12&layout=compact"/>
+</div>
